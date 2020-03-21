@@ -5,3 +5,4 @@ PyChromecast==0.8.1
 requests==2.18.1
 tornado==4.4.3
 xmltodict==0.10.2
+zeroconf<0.20
